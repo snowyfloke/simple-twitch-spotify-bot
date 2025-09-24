@@ -34,4 +34,5 @@ Substitua MOD1, MOD2, MOD3 e etc pelos seus moderadores e por você mesmo!
 <img width="734" height="254" alt="image" src="https://github.com/user-attachments/assets/70d07613-3f3d-41c7-8f2d-6cbe8743dcda" />
 
 Rode este programa usando o comando "Python CAMINHO/DO/PROGRAMA.py", você pode adicioná-lo para iniciar automaticamente em segundo plano se quiser.
+(Caso use Arch Linux, recomendo usar "Python3 CAMINHO/DO/PROGRAMA.py" no comando)
 ### Aviso: O bot só irá funcionar enquanto o Spotify estiver aberto e tocando alguma música!
